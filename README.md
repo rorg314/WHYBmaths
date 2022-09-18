@@ -17,6 +17,10 @@ Revision notes from my masters differential geometry exam.
 |-|-|
 |![](./Images/Portfolio/DifferentialGeometryRevisionScreenshot.png)|
 
+Notes on principal bundles and gauge theory that I wrote during my Msc thesis.
+|[Principal Bundles and Gauge Theories](./PrincipalBundlesAndGaugeTheories.pdf) | |
+|-|-|
+|![](./Images/Portfolio/GaugeNotesScreenshot.png)|
 
 # MSc Thesis - Einstein-Cartan Gravity
 
