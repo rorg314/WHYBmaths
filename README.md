@@ -2,13 +2,9 @@
 This repository is for my YouTube channel WHYBmaths, where I post mathematical physics videos. Here you can find notes that I produced while making the videos, as well as a few notes I wrote whilst doing my masters degree!
 
 
-# Mathematical Physics on YouTube
+# Notes
 
-Here is a link to my [youtube channel](https://www.youtube.com/channel/UC9bTwyZMt5HxScZ5f7BT34Q), where I make concise (15 min) mathematical physics lectures (and my dog watches!), covering topics usually ommited on standard physics courses (differential geometry, multilinear algebra, group theory).
-
-I am currently uploading a series of videos covering Special and General relativity from a differential geometric perspective, building on topics previously covered on the channel. 
-
-I regularly receive and answer questions, and really enjoy the discourse with people watching each video!
+Here are some notes that I have written over the course of making these videos, and on my masters degree! The notes will be a bit rough and conversational at times, but hopefully they will be helpful in some way! The notes do quite closely follow the content in the videos, and there will be some things that either haven't been ilmed/edited yet, or that didn't quite make it into the videos! 
 
 ![](./WHYBmaths/Images/Portfolio/channel_screenshot.png)
 
@@ -16,6 +12,7 @@ I regularly receive and answer questions, and really enjoy the discourse with pe
 |-|-|
 |![](./Images/Portfolio/relativity_notes_screenshot.png)|![](Images/Portfolio/topology_manifolds_notes_screenshot.png)|
 
+Revision notes from my masters differential geometry exam.
 |[Differential Geometry Revision Notes](./Relativity_Notes.pdf) | |
 |-|-|
 |![](./Images/Portfolio/DifferentialGeometryRevisionScreenshot.png)|
