@@ -8,17 +8,17 @@ Here are some notes that I have written over the course of making these videos, 
 
 ![](./WHYBmaths/Images/Portfolio/channel_screenshot.png)
 
-|[Relativity notes](./Notes/Relativity_Notes.pdf) | [Tensors, Topology, Manifolds notes](./Notes/TensorsTopologyManifolds.pdf) |
+|[Relativity notes](https://github.com/rorg314/WHYBmaths/blob/main/Notes/Relativity_Notes.pdf) | [Tensors, Topology, Manifolds notes](https://github.com/rorg314/WHYBmaths/blob/main/Notes/TensorsTopologyManifolds.pdf) |
 |-|-|
 |![](./Images/Portfolio/relativity_notes_screenshot.png)|![](Images/Portfolio/topology_manifolds_notes_screenshot.png)|
 
 Revision notes from my masters differential geometry exam.
-|[Differential Geometry Revision Notes](./Relativity_Notes.pdf) | |
+|[Differential Geometry Revision Notes](https://github.com/rorg314/WHYBmaths/blob/main/Notes/DifferentialGeometryRevision.pdf) | |
 |-|-|
 |![](./Images/Portfolio/DifferentialGeometryRevisionScreenshot.png)|
 
 Notes on principal bundles and gauge theory that I wrote during my Msc thesis.
-|[Principal Bundles and Gauge Theories](./PrincipalBundlesAndGaugeTheories.pdf) | |
+|[Principal Bundles and Gauge Theories](https://github.com/rorg314/WHYBmaths/blob/main/Notes/PrincipalBundlesAndGaugeTheories.pdf) | |
 |-|-|
 |![](./Images/Portfolio/GaugeTheoryNotesScreenshot.png)|
 
